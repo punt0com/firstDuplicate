@@ -1,0 +1,11 @@
+C:\Users\1025308\source\repos\firstDuplicate\firstDuplicate\bin\Debug\netcoreapp2.1\firstDuplicate.deps.json
+C:\Users\1025308\source\repos\firstDuplicate\firstDuplicate\bin\Debug\netcoreapp2.1\firstDuplicate.runtimeconfig.json
+C:\Users\1025308\source\repos\firstDuplicate\firstDuplicate\bin\Debug\netcoreapp2.1\firstDuplicate.runtimeconfig.dev.json
+C:\Users\1025308\source\repos\firstDuplicate\firstDuplicate\bin\Debug\netcoreapp2.1\firstDuplicate.dll
+C:\Users\1025308\source\repos\firstDuplicate\firstDuplicate\bin\Debug\netcoreapp2.1\firstDuplicate.pdb
+C:\Users\1025308\source\repos\firstDuplicate\firstDuplicate\obj\Debug\netcoreapp2.1\firstDuplicate.csprojAssemblyReference.cache
+C:\Users\1025308\source\repos\firstDuplicate\firstDuplicate\obj\Debug\netcoreapp2.1\firstDuplicate.csproj.CoreCompileInputs.cache
+C:\Users\1025308\source\repos\firstDuplicate\firstDuplicate\obj\Debug\netcoreapp2.1\firstDuplicate.AssemblyInfoInputs.cache
+C:\Users\1025308\source\repos\firstDuplicate\firstDuplicate\obj\Debug\netcoreapp2.1\firstDuplicate.AssemblyInfo.cs
+C:\Users\1025308\source\repos\firstDuplicate\firstDuplicate\obj\Debug\netcoreapp2.1\firstDuplicate.dll
+C:\Users\1025308\source\repos\firstDuplicate\firstDuplicate\obj\Debug\netcoreapp2.1\firstDuplicate.pdb
